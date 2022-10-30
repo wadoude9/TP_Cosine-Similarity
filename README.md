@@ -2,7 +2,7 @@
 simple Cosine Similarity calculator
 
 # Download
-wget https://github.com/MrDznonyme/simapp/files/9892491/Simapp_v2.zip
+wget https://github.com/wadoude9/TP_Cosine-Similarity/releases/download/cos_similarity/simcal.zip
 
 
 # Usage
