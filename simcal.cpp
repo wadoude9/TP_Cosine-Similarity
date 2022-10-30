@@ -56,6 +56,7 @@ map<string, int> readFile(string path) {
 }
 
 int main(int argc, char *argv[]) {
+    map<string, int> file1, file2;
     file1 = readFile(argv[1]);
     file2 = readFile(argv[2]);
     vector<string> keys;
